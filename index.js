@@ -12,4 +12,4 @@ function happyHolidayTo(birthday, Aaron) {
 
 function holidayCountdown(days, Christmas) {
   return `It's ${28} days until ${Christmas}!`
-}'
+}
